@@ -1,0 +1,4 @@
+#Sun May 20 22:59:01 PKT 2018
+base.0=C\:\\Users\\shahm\\Documents\\semester2\\oop\\oopProject\\the app android studio shit\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\shahm\\Documents\\semester2\\oop\\oopProject\\the app android studio shit\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
